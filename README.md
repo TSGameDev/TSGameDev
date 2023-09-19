@@ -1,11 +1,11 @@
 # Tyler Lazarus 
 **`Digital Craftsman (Game Programmer)`**
 
-I am a games programmer with a focus on gameplay programming, covering all elements of play from UI to Mechanics to AI. I currently have a focus on Unity and C# soon to expand to Unreal and GoDot learning GDScript and C++. My projects are made completely by me, unless stated, from design and conceptualisation to planning and development. I love to be able to take peoples ideas and craft them into a playable experience, I see it as an honour and I always look forward to learning more. 
+I am a games programmer with a focus on gameplay programming, covering all elements of play from UI to Mechanics to AI. I currently have a focus on Unity and C# soon to expand to Unreal and GoDot learning GDScript and C++. My projects are made completely by me, unless stated, from design and conceptualisation to planning and development. I love to be able to take peoples ideas and craft them into a playable experience, I see it as an honour and I always look forward to learning more.<br>
 
-If you would like to see my work, I recommend the following repos that best represent my current skill:
-<a href= "https://github.com/TSGameDev/AOH-CodeSnippet">Apothecary of Hilnsdor</a>
-<a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a>
+If you would like to see my work, I recommend the following repos that best represent my current skill:<br>
+<a href= "https://github.com/TSGameDev/AOH-CodeSnippet">Apothecary of Hilnsdor</a><br>
+<a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a><br>
 
 ---
 ### Languages and Tools
