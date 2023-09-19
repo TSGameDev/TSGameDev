@@ -1,22 +1,3 @@
-.float-container {
-    border: 3px solid #fff;
-    padding: 20px;
-}
-
-.float-child 1{
-    width: 50%;
-    float: left;
-    padding: 20px;
-    border: 2px solid red;
-} 
-
-.float-child 2{
-    width: 50%;
-    float: left;
-    padding: 20px;
-    border: 2px solid red;
-} 
-
 # Tyler Lazarus 
 **`Digital Craftsman (Game Programmer)`**
 
@@ -24,28 +5,14 @@ I am a games programmer with a focus on gameplay programming, covering all eleme
 
 If you would like to see my work, I recommend the following repos that best represent my current skill:  
 <a href= "https://github.com/TSGameDev/AOH-CodeSnippet">Apothecary of Hilnsdor</a>  
-<a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a>  
-
-<div class="float-container">
-  <div class="float-child 1">
-    <h1> Test 1
-    </h1>
-    <p>
-    </p>
-  </div>
-  <div class="float-child 2">
-    <h1> Test 2
-    </h1>
-    <p>
-    </p>
-  </div>
-</div>
+<a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a> 
 
 ---
 ### Languages and Tools
-<img align="left" alt="CPlusPlus" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="CSharp" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-
+<img align="left" alt="CPlusPlus" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="CSharp" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="Unity" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img align="left" alt="Unreal" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
 
 <!--
 **TSGameDev/TSGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
