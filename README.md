@@ -28,9 +28,13 @@ If you would like to see my work, I recommend the following repos that best repr
 
 <div class="float-container">
   <div class="float-child 1">
+    <h1> Test 1
+    </h1>
+    <p>
+    </p>
   </div>
   <div class="float-child 2">
-    <h1>
+    <h1> Test 2
     </h1>
     <p>
     </p>
