@@ -1,3 +1,22 @@
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child 1{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+} 
+
+.float-child 2{
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+} 
+
 # Tyler Lazarus 
 **`Digital Craftsman (Game Programmer)`**
 
@@ -6,6 +25,17 @@ I am a games programmer with a focus on gameplay programming, covering all eleme
 If you would like to see my work, I recommend the following repos that best represent my current skill:  
 <a href= "https://github.com/TSGameDev/AOH-CodeSnippet">Apothecary of Hilnsdor</a>  
 <a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a>  
+
+<div class="float-container">
+  <div class="float-child 1">
+  </div>
+  <div class="float-child 2">
+    <h1>
+    </h1>
+    <p>
+    </p>
+  </div>
+</div>
 
 ---
 ### Languages and Tools
