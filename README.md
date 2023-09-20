@@ -18,7 +18,7 @@ If you would like to see my work, I recommend the following repos that best repr
 ---
 
 <details>
-  <summary><h2> My Journey </h2></summary>
+  <summary><h2> About Me </h2></summary>
   <details>
     <summary>Life</summary>
     <h3> Life </h3>
