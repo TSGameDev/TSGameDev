@@ -33,36 +33,22 @@ If you would like to see my work, I recommend the following repos that best repr
     <summary>Hobbies</summary>
     <h3> Hobbies </h3>
     <ul>
-      <li> I enjoy playing any and all games </li>
-      <li>  </li>
-      <li>  </li>
-      <li>  </li>
+      <li> I enjoy playing any and all games but I have a preference for Survial or Fantasy games</li>
+      <li> I enjoy reading and writing fantasy </li>
+      <li> I enjoy DnD and currently DM a campaign with 4 friends </li>
     </ul>
   </details>
   <details>
-    <summary>Current Projects</summary>
-    <h3> Current Projects </h3>
+    <summary>Current Activities</summary>
+    <h3> Current Activities </h3>
     <ul>
-      <li>  </li>
-      <li>  </li>
-      <li>  </li>
-      <li>  </li>
+      <li> I am currently learning Unreal and C++ by using tutorials and create a project called Delivery With The Dead </li>
+      <li> I am looking to network and learn from my peers. If you would like to have a conversation please connect with me on <a href= "https://www.linkedin.com/in/tsgamedev/">LinkedIn</a>. I would be happy to hear from you.</li>
+    </ul>
+    <h3> Future Plans </h3>
+    <ul>
+      <li> After Deliver With The Dead, I am looking to expand my skills into Godot by creating another small project I have in mind. </li>
+      <li> I am looking to improve my generic programming and expand to other areas by learning Software Development, this is a lesser priority</li>
     </ul>
   </details>
 </details>
-
-
-<!--
-**TSGameDev/TSGameDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
