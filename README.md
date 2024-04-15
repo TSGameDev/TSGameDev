@@ -1,11 +1,12 @@
 # Tyler Lazarus 
 **`Digital Craftsman (Game Programmer)`**
 
-I am a games programmer with a focus on gameplay programming, covering all elements of play from UI to Mechanics to AI. I currently have a focus on Unity and C# soon to expand to Unreal and GoDot learning GDScript and C++. My projects are made completely by me, unless stated, from design and conceptualisation to planning and development. I love to be able to take peoples ideas and craft them into a playable experience, I see it as an honour and I always look forward to learning more.  
+I am a games programmer with a focus on gameplay programming, covering all elements of play from UI to Mechanics to AI. I currently have a focus on Unity and C#. I am currently learning about other sectors like software and web developmnet to expand into other sector and expand my skillsets. My projects are made completely by me, unless stated, from design and conceptualisation to planning and development. I love to be able to take peoples ideas and craft them into a playable experience, I see it as an honour and I always look forward to learning more.  
 
 If you would like to see my work, I recommend the following repos that best represent my current skill:  
 <a href= "https://github.com/TSGameDev/AOH-CodeSnippet">Apothecary of Hilnsdor</a>  
-<a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a>  
+<a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a>
+<a href= "https://github.com/TSGameDev/Pew">PAC</a>
 
 ---
 
@@ -42,13 +43,9 @@ If you would like to see my work, I recommend the following repos that best repr
     <summary>Current Activities</summary>
     <h3> Current Activities </h3>
     <ul>
-      <li> I am currently learning Unreal and C++ by using tutorials and create a project called Delivery With The Dead </li>
+      <li> Developing a multiplayer FPS to learn network programming. The Project is called PAC</li>
       <li> I am looking to network and learn from my peers. If you would like to have a conversation please connect with me on <a href= "https://www.linkedin.com/in/tsgamedev/">LinkedIn</a>. I would be happy to hear from you.</li>
-    </ul>
-    <h3> Future Plans </h3>
-    <ul>
-      <li> After Deliver With The Dead, I am looking to expand my skills into Godot by creating another small project I have in mind. </li>
-      <li> I am looking to improve my generic programming and expand to other areas by learning Software Development, this is a lesser priority</li>
+      <li> I am also learning Typescript and other technologies relivent in web development and software development to expand my skillset.</li>
     </ul>
   </details>
 </details>
