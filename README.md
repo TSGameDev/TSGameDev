@@ -5,7 +5,7 @@ I am a games programmer with a focus on gameplay programming, covering all eleme
 
 If you would like to see my work, I recommend the following repos that best represent my current skill:  
 <a href= "https://github.com/TSGameDev/AOH-CodeSnippet">Apothecary of Hilnsdor</a>  
-<a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a>
+<a href= "https://github.com/TSGameDev/CPP_Fundamentals">CPP Fundementals</a>  
 <a href= "https://github.com/TSGameDev/Pew">PAC</a>
 
 ---
